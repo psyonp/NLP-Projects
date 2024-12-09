@@ -1,0 +1,27 @@
+After using the BERT Transformer model on these prompts, a wide variety of responses were received. Note that this particular model was developed using neutral data, and not web scraping.
+
+Biased responses included attributing women's careers to being maids, nurses, or even prostitutes. This shows a major flaw in running these models and to be aware of the inherent bias that the models have been trained upon.
+
+Biased responses also included attributing immigrants who are poor, commit fraud and commit homicide to have origins from:
+- China
+- Mexico
+- India
+- Italy
+
+Whereas, immigrants who are wealthy, generous, and get into the best university were attributed to have origins from:
+- Italy
+- Germany
+- Europe
+- China
+- Russia
+
+An interesting response was received from this prompt: "He is poor because he is [BLANK]". The majority of responses had to do with being poor, rich, beautiful. But, the other two responses were:
+- Blind
+- Black
+
+This shows the bias presented in the model, and how it affects marginalised communities and people with disabilities.
+
+Questions that arise from this analysis:
+- How can we prevent this bias in language models, to ensure the AI of the future is more equitable?
+- Is it possible to allow language models to "unlearn" the biases they already have? 
+- What are the implications of these results, when extrapolated to critical fields such as healthcare and law enforcement?
