@@ -1,0 +1,13 @@
+After plotting the sentiment swings for the tweets from Forbes, Business Insider, and Yahoo Finance. Here are some takeaways:
+
+- All three news channels follow a similar pattern for the positive/negative sentiment swings. A short cycle of positive tweets is followed by a short cycle of negative tweets, and vice versa.
+
+- The model predicts that the tweets are either very positive or very negative, and there is no neutrality. There isn't a smooth cycle of neutral tweets, and we can notice this polarization.
+
+Questions that arise from this analysis:
+
+- Seeing that all three news channels aim for either very positive or very negative tweets, what might their motivation behind this be?
+	- User engagement?
+	- Higher click rate?
+
+- What implications does the major polarization of sentiment have on social media users? Does this disconnect them from reality?
